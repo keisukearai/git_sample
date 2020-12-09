@@ -1,0 +1,5 @@
+{cloneしたリポジトリDir}/.git/config
+
+url = https://username:password@github.com/username/repository.git
+
+usernameの@は「%40 (エンコードした値)」
